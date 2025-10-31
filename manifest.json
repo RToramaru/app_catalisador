@@ -1,6 +1,6 @@
 {
-    "name": "catalisador",
-    "short_name": "catalisador",
+    "name": "catalisador_dashboard",
+    "short_name": "catalisador_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
